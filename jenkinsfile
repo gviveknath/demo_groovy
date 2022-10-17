@@ -1,0 +1,5 @@
+@Library('new_repo')_
+
+stage('demo'){
+    sayhello 'subash'
+}
