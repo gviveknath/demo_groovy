@@ -1,5 +1,5 @@
 @Library('new_repo')_
 
 stage('demo'){
-    bulid()
+    bulid
 }
